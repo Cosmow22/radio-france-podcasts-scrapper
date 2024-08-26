@@ -1,0 +1,7 @@
+setuptools
+twine
+weel
+pathlib
+argparse
+tqdm
+requests
