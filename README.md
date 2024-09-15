@@ -22,13 +22,13 @@ You can run rfscrapper with 2 arguments:
 For example..
 
 ```batch
-rf_scrapper "put here a link in brackets"
+rfscrapper "put here a link in brackets"
 ```
 
 or
 
 ```batch
-rf_scrapper "list.txt" -o "output_folder"
+rfscrapper "list.txt" -o "output_folder"
 ```
 
 are both correct ways to launch the CLI !
