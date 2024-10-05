@@ -16,8 +16,8 @@ pip install rfscrapper
 
 You can run rfscrapper with 2 arguments:
 
-1. Must either be a link to the podcast you want to download or the path to a file were each line is a link. A new line is created each time you press the Enter key, so don't be fooled by the notepad when it displays the link you just pasted over two lines!
-2. The output folder in which you want to put your downloads. By default, it is s the current folder directory.
+1. (required) Must either be a link to the podcast you want to download or the path to a file were each line is a link. A new line is created each time you press the *Enter key*. So, don't be fooled by the notepad when the link you just pasted displays over two lines!
+2. (optional) The output folder in which you want to put your downloads. By default, it is s the current folder directory.
 
 For example..
 
